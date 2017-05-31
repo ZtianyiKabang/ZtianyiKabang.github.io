@@ -1,0 +1,149 @@
+body {
+	padding: 0px;
+	margin: 0px;
+	position: relative;
+	
+}
+.title img{
+	width: 180px;
+	height: 180px;
+	margin-top: 80px;
+	margin-left: 20px;
+	border-radius: 50%;
+	transition: all 0.6s;  
+}
+.title img:hover{
+	
+	transform: scale(1.1);
+}
+.title h1{
+	float: right;
+	height: 188px;
+	line-height: 188px;
+	margin-right:48px ;
+	font-style: italic;
+	font-size: 48px;
+	color: #F0FFFF;
+}
+.top {
+	width: 100%;
+	height: 50px;
+	background-color:lightblue;
+	position: fixed;
+	text-align: center;
+	z-index: 1;
+}
+.top ul{
+	list-style-type: none;
+	margin: 0px;
+	padding: 0px;
+}
+.top li{
+	display: inline;
+	padding: 10px;
+	margin: 20px;
+	font-size: 24px;
+}
+.top li a{
+	height: 50px;
+	line-height: 50px;
+	text-decoration: none;
+	color: azure;
+}
+.top li:active{
+	background-color: cadetblue;
+}
+.top  a:hover{
+	color: aquamarine;
+}
+.top li:hover{
+	border-bottom: inset aquamarine;
+}
+.information{
+	margin-top: 20px;
+	text-align: center;
+	background-color: rgba(0,0,0,0.2);
+	padding: 20px;
+}
+.information h2{
+	text-align: left;
+	font-family: "华文行楷" ;
+	color: azure;
+	font-size: 32px;
+	border-bottom: inset azure;
+}
+.information p{
+	color: azure;
+	font-size: 24px;
+}
+.skills{
+	margin-top: 40px;
+	text-align: center;
+	background-color: rgba(0,0,0,0.2);
+	padding: 20px;
+}
+.skills h2{
+	text-align: left;
+	font-family: "华文行楷" ;
+	color: azure;
+	font-size: 32px;
+	border-bottom: inset azure;
+}
+.skills p{
+	color: azure;
+	font-size: 24px;
+}
+.work{
+	width: auto;
+	height: 270px;
+	position: relative;
+	padding: 0px;
+	background-color: beige;
+}
+.img{
+	width: 325px;
+	height: 255px;
+	border: darkslategray solid 5px;
+	overflow: hidden;
+	float: left;
+	margin: 5px;
+	margin-left: 28px;
+}
+.img img{
+	transition: all 0.6s;
+}
+.img img:hover{
+	transform: scale(1.2);	
+}
+.course{
+	text-align: center;
+	background-color: rgba(0,0,0,0.2);
+	padding: 20px;
+}
+.course h2{
+	text-align: left;
+	font-family: "华文行楷" ;
+	color: azure;
+	font-size: 32px;
+	border-bottom: inset azure;
+}
+.course p{
+	color: azure;
+	font-size: 24px;
+}
+.evaluation{
+	text-align: center;
+	background-color: rgba(0,0,0,0.2);
+	padding: 20px;
+}
+.evaluation h2{
+	text-align: left;
+	font-family: "华文行楷" ;
+	color: azure;
+	font-size: 32px;
+	border-bottom: inset azure;
+}
+.evaluation p{
+	color: azure;
+	font-size: 24px;
+}
