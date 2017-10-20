@@ -1,0 +1,215 @@
+{
+	"groups": [
+		{
+			"keys": "bg_jpg,description_json,photo_frame_png,rule_jpg,rule_btn_png,rule_close_png,start_btn_png,swim_ring_png,timer_frame_png,title_png,bgm_png,figure_left_png,figure_right_png,fish_png,game_bg_jpg,leaf_png,leaf_2_png,logo_png,man_1_png,man_1_2_png,man_2_png,man_2_2_png,man_3_png,person_left_png,person_right_png,photo_png,rule_png,back_homepage_png,edit_png,failure_png,name_hint_png,play_again_btn_png,ranking_png,ranking_btn_png,result_png,result_2_png,succeed_png,phone_hint_png,dashed_png,apply_btn_png,apply_man_png",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"name": "bg_jpg",
+			"type": "image",
+			"url": "assets/bg.jpg"
+		},
+		{
+			"name": "description_json",
+			"type": "json",
+			"url": "config/description.json"
+		},
+		{
+			"name": "photo_frame_png",
+			"type": "image",
+			"url": "assets/photo_frame.png"
+		},
+		{
+			"name": "rule_jpg",
+			"type": "image",
+			"url": "assets/rule.jpg"
+		},
+		{
+			"name": "rule_btn_png",
+			"type": "image",
+			"url": "assets/rule_btn.png"
+		},
+		{
+			"name": "rule_close_png",
+			"type": "image",
+			"url": "assets/rule_close.png"
+		},
+		{
+			"name": "start_btn_png",
+			"type": "image",
+			"url": "assets/start_btn.png"
+		},
+		{
+			"name": "swim_ring_png",
+			"type": "image",
+			"url": "assets/swim_ring.png"
+		},
+		{
+			"name": "timer_frame_png",
+			"type": "image",
+			"url": "assets/timer_frame.png"
+		},
+		{
+			"name": "title_png",
+			"type": "image",
+			"url": "assets/title.png"
+		},
+		{
+			"name": "bgm_png",
+			"type": "image",
+			"url": "assets/bgm.png"
+		},
+		{
+			"name": "figure_left_png",
+			"type": "image",
+			"url": "assets/figure_left.png"
+		},
+		{
+			"name": "figure_right_png",
+			"type": "image",
+			"url": "assets/figure_right.png"
+		},
+		{
+			"name": "fish_png",
+			"type": "image",
+			"url": "assets/fish.png"
+		},
+		{
+			"name": "game_bg_jpg",
+			"type": "image",
+			"url": "assets/game_bg.jpg"
+		},
+		{
+			"name": "leaf_png",
+			"type": "image",
+			"url": "assets/leaf.png"
+		},
+		{
+			"name": "leaf_2_png",
+			"type": "image",
+			"url": "assets/leaf_2.png"
+		},
+		{
+			"name": "logo_png",
+			"type": "image",
+			"url": "assets/logo.png"
+		},
+		{
+			"name": "man_1_png",
+			"type": "image",
+			"url": "assets/man_1.png"
+		},
+		{
+			"name": "man_1_2_png",
+			"type": "image",
+			"url": "assets/man_1_2.png"
+		},
+		{
+			"name": "man_2_png",
+			"type": "image",
+			"url": "assets/man_2.png"
+		},
+		{
+			"name": "man_2_2_png",
+			"type": "image",
+			"url": "assets/man_2_2.png"
+		},
+		{
+			"name": "man_3_png",
+			"type": "image",
+			"url": "assets/man_3.png"
+		},
+		{
+			"name": "person_left_png",
+			"type": "image",
+			"url": "assets/person_left.png"
+		},
+		{
+			"name": "person_right_png",
+			"type": "image",
+			"url": "assets/person_right.png"
+		},
+		{
+			"name": "photo_png",
+			"type": "image",
+			"url": "assets/photo.png"
+		},
+		{
+			"name": "rule_png",
+			"type": "image",
+			"url": "assets/rule.png"
+		},
+		{
+			"name": "back_homepage_png",
+			"type": "image",
+			"url": "assets/back_homepage.png"
+		},
+		{
+			"name": "edit_png",
+			"type": "image",
+			"url": "assets/edit.png"
+		},
+		{
+			"name": "failure_png",
+			"type": "image",
+			"url": "assets/failure.png"
+		},
+		{
+			"name": "name_hint_png",
+			"type": "image",
+			"url": "assets/name_hint.png"
+		},
+		{
+			"name": "play_again_btn_png",
+			"type": "image",
+			"url": "assets/play_again_btn.png"
+		},
+		{
+			"name": "ranking_png",
+			"type": "image",
+			"url": "assets/ranking.png"
+		},
+		{
+			"name": "ranking_btn_png",
+			"type": "image",
+			"url": "assets/ranking_btn.png"
+		},
+		{
+			"name": "result_png",
+			"type": "image",
+			"url": "assets/result.png"
+		},
+		{
+			"name": "result_2_png",
+			"type": "image",
+			"url": "assets/result_2.png"
+		},
+		{
+			"name": "succeed_png",
+			"type": "image",
+			"url": "assets/succeed.png"
+		},
+		{
+			"name": "phone_hint_png",
+			"type": "image",
+			"url": "assets/phone_hint.png"
+		},
+		{
+			"name": "dashed_png",
+			"type": "image",
+			"url": "assets/dashed.png"
+		},
+		{
+			"name": "apply_btn_png",
+			"type": "image",
+			"url": "assets/apply_btn.png"
+		},
+		{
+			"name": "apply_man_png",
+			"type": "image",
+			"url": "assets/apply_man.png"
+		}
+	]
+}
