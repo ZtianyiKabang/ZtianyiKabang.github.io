@@ -1,0 +1,1329 @@
+{
+	"groups": [
+		{
+			"keys": "egret_icon_png,bg1_jpg,h1_bottom_png,h1_logo_png,h1_mask_png,h1_t1_png,h1_t2_png,h1_t3_png,h1_bg_mask_png,h2_btn16_png,h2_btn17_png,h2_btn18_png,h2_btn19_png,h2_btn20_png,h2_btn21_png,h2_btn22_png,h2_btn23_png,h2_btn24_png,h2_line_png,h2_t1_png,h2_t2_png,h2_t3_png,h2_t4_png,h2_bg_icon1_png,h2_bg_icon2_png,h2_btn1_png,h2_btn2_png,h2_btn3_png,h2_btn4_png,h2_btn5_png,h2_btn6_png,h2_btn7_png,h2_btn8_png,h2_btn9_png,h2_btn10_png,h2_btn11_png,h2_btn12_png,h2_btn13_png,h2_btn14_png,h2_btn15_png,hint_png,h2_title_png,p1_bg_icon1_png,p1_bg_icon3_png,p1_map1_png,p1_map2_png,p1_map3_png,p1_map4_png,p1_map5_png,p1_map6_png,p1_mask_png,p1_text_png,p1_title1_png,p1_title2_png,p1_bg_icon2_1_png,p1_bg_icon2_2_png,p1_hint_png,p1_map_0_jpg,p1_map_1_jpg,p1_map_2_jpg,p1_map_3_jpg,p1_map_4_jpg,p1_map_5_jpg,p2_title2_png,p2_bg_icon_png,p2_hint_png,p2_icon_png,p2_icon1_png,p2_icon2_png,p2_t1_png,p2_t2_png,p2_text_png,p2_title1_png,p2_map1_png,p2_map2_png,p3_bg_icon_png,p3_icon_png,p3_text1_1_png,p3_text1_2_png,p3_text2_1_png,p3_text2_2_png,p3_title1_png,p3_title2_png,p3_mask_png,p4_t2_png,p4_text1_1_png,p4_text1_2_png,p4_text1_3_png,p4_text1_4_png,p4_text1_5_png,p4_text2_1_png,p4_text2_2_png,p4_text2_3_png,p4_text2_4_png,p4_text2_5_png,p4_text2_6_png,p4_text2_7_png,p4_title1_png,p4_title2_png,p4_bg_icon1_png,p4_bg_icon2_png,p4_t1_png,p5_title1_png,p5_title2_png,p5_bg_icon1_png,p5_bg_icon2_png,p5_icon1_png,p5_icon2_png,p5_map_png,p5_text_png,p6_bg_icon_png,p6_map1_png,p6_map2_png,p6_text_png,p6_title1_png,p6_title2_png,p6_title3_png,p7_icon2_png,p7_map_png,p7_text_png,p7_title1_png,p7_title2_png,p7_icon1_png,p8_bg_icon_png,p8_map1_png,p8_map2_png,p8_t1_1_png,p8_t1_2_png,p8_t2_1_png,p8_t2_2_png,p8_title1_png,p8_title2_png,p8_title3_png,p9_title2_png,p9_bg_icon_png,p9_map1_png,p9_map2_png,p9_text1_png,p9_text2_png,p9_text3_png,p9_title1_png,p10_title1_png,p10_title2_png,p10_bg_icon_png,p10_map_png,p10_text1_png,p10_text2_png,p10_text3_png,p11_title1_png,p11_title2_png,p11_bg_icon_png,p11_map_png,p11_text1_png,p11_text2_png,p11_text3_png,p12_title2_png,p12_bg_icon_png,p12_map1_png,p12_map2_png,p12_map3_png,p12_text1_png,p12_text2_png,p12_text3_png,p12_title1_png,p13_title1_png,p13_title2_png,p13_bg_icon_png,p13_map1_png,p13_map2_png,p13_text1_png,p13_text2_png,p13_text3_png,p14_bg_icon_png,p14_map_png,p14_text1_png,p14_text2_png,p14_text3_png,p14_title1_png,p14_title2_png,p15_bg_icon_png,p15_map1_png,p15_map2_png,p15_text_png,p15_title1_png,p15_title2_png,p16_title2_png,p16_bg_icon_png,p16_map_png,p16_text1_png,p16_text2_png,p16_title1_png,p17_title1_png,p17_title2_png,p17_bg_icon_png,p17_bg_icon2_png,p17_map_png,p17_text1_png,p17_text2_png,p18_bg_icon_png,p18_bg_icon2_png,p18_map_png,p18_map_frame_png,p18_text1_png,p18_text2_png,p18_title_png,bg2_jpg,p19_bg_icon_png,p19_map_png,p19_map_frame_png,p19_text1_png,p19_text2_png,p19_title_png,p20_map_png,p20_text1_png,p20_text2_png,p20_title_png,bg3_jpg,p20_map_frame_png,p21_bg_icon_png,p21_bg_icon2_png,p21_map_png,p21_map_frame_png,p21_text1_png,p21_text2_png,p21_title_png,p22_map_frame_png,p22_text1_png,p22_text2_png,p22_title_png,p22_bg_icon_png,p22_bg_icon2_png,p22_map_png,p23text2_png,p23_icon_png,p23text1_png,p23_bg_icon_png,p23_title_png,p23_map_png,p23_map_frame_png,p24_bg_icon_png,p24_map_png,p24_text1_png,p24_text2_png,p24_title_png,bg4_jpg,p24_map_frame_png,p25_icon_png,p25_map_png,p25_map_frame_png,p25_text1_png,p25_text2_png,p25_title_png,p25_bg_icon1_png,p25_bg_icon2_png,bg5_jpg,p26_map_png,p26_text_png,p26_title1_png,p26_title2_png,bg6_jpg,erweima_png,bg7_jpg",
+			"name": "preload"
+		},
+		{
+			"keys": "bg_jpg",
+			"name": "loading"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/egret_icon.png",
+			"type": "image",
+			"name": "egret_icon_png"
+		},
+		{
+			"url": "assets/bg1.jpg",
+			"type": "image",
+			"name": "bg1_jpg"
+		},
+		{
+			"url": "assets/h1_bottom.png",
+			"type": "image",
+			"name": "h1_bottom_png"
+		},
+		{
+			"url": "assets/h1_logo.png",
+			"type": "image",
+			"name": "h1_logo_png"
+		},
+		{
+			"url": "assets/h1_mask.png",
+			"type": "image",
+			"name": "h1_mask_png"
+		},
+		{
+			"url": "assets/h1_t1.png",
+			"type": "image",
+			"name": "h1_t1_png"
+		},
+		{
+			"url": "assets/h1_t2.png",
+			"type": "image",
+			"name": "h1_t2_png"
+		},
+		{
+			"url": "assets/h1_t3.png",
+			"type": "image",
+			"name": "h1_t3_png"
+		},
+		{
+			"url": "assets/bg.jpg",
+			"type": "image",
+			"name": "bg_jpg"
+		},
+		{
+			"name": "h1_bg_mask_png",
+			"type": "image",
+			"url": "assets/h1_bg_mask.png"
+		},
+		{
+			"name": "h2_btn16_png",
+			"type": "image",
+			"url": "assets/h2_btn16.png"
+		},
+		{
+			"name": "h2_btn17_png",
+			"type": "image",
+			"url": "assets/h2_btn17.png"
+		},
+		{
+			"name": "h2_btn18_png",
+			"type": "image",
+			"url": "assets/h2_btn18.png"
+		},
+		{
+			"name": "h2_btn19_png",
+			"type": "image",
+			"url": "assets/h2_btn19.png"
+		},
+		{
+			"name": "h2_btn20_png",
+			"type": "image",
+			"url": "assets/h2_btn20.png"
+		},
+		{
+			"name": "h2_btn21_png",
+			"type": "image",
+			"url": "assets/h2_btn21.png"
+		},
+		{
+			"name": "h2_btn22_png",
+			"type": "image",
+			"url": "assets/h2_btn22.png"
+		},
+		{
+			"name": "h2_btn23_png",
+			"type": "image",
+			"url": "assets/h2_btn23.png"
+		},
+		{
+			"name": "h2_btn24_png",
+			"type": "image",
+			"url": "assets/h2_btn24.png"
+		},
+		{
+			"name": "h2_line_png",
+			"type": "image",
+			"url": "assets/h2_line.png"
+		},
+		{
+			"name": "h2_t1_png",
+			"type": "image",
+			"url": "assets/h2_t1.png"
+		},
+		{
+			"name": "h2_t2_png",
+			"type": "image",
+			"url": "assets/h2_t2.png"
+		},
+		{
+			"name": "h2_t3_png",
+			"type": "image",
+			"url": "assets/h2_t3.png"
+		},
+		{
+			"name": "h2_t4_png",
+			"type": "image",
+			"url": "assets/h2_t4.png"
+		},
+		{
+			"name": "h2_bg_icon1_png",
+			"type": "image",
+			"url": "assets/h2_bg_icon1.png"
+		},
+		{
+			"name": "h2_bg_icon2_png",
+			"type": "image",
+			"url": "assets/h2_bg_icon2.png"
+		},
+		{
+			"name": "h2_btn1_png",
+			"type": "image",
+			"url": "assets/h2_btn1.png"
+		},
+		{
+			"name": "h2_btn2_png",
+			"type": "image",
+			"url": "assets/h2_btn2.png"
+		},
+		{
+			"name": "h2_btn3_png",
+			"type": "image",
+			"url": "assets/h2_btn3.png"
+		},
+		{
+			"name": "h2_btn4_png",
+			"type": "image",
+			"url": "assets/h2_btn4.png"
+		},
+		{
+			"name": "h2_btn5_png",
+			"type": "image",
+			"url": "assets/h2_btn5.png"
+		},
+		{
+			"name": "h2_btn6_png",
+			"type": "image",
+			"url": "assets/h2_btn6.png"
+		},
+		{
+			"name": "h2_btn7_png",
+			"type": "image",
+			"url": "assets/h2_btn7.png"
+		},
+		{
+			"name": "h2_btn8_png",
+			"type": "image",
+			"url": "assets/h2_btn8.png"
+		},
+		{
+			"name": "h2_btn9_png",
+			"type": "image",
+			"url": "assets/h2_btn9.png"
+		},
+		{
+			"name": "h2_btn10_png",
+			"type": "image",
+			"url": "assets/h2_btn10.png"
+		},
+		{
+			"name": "h2_btn11_png",
+			"type": "image",
+			"url": "assets/h2_btn11.png"
+		},
+		{
+			"name": "h2_btn12_png",
+			"type": "image",
+			"url": "assets/h2_btn12.png"
+		},
+		{
+			"name": "h2_btn13_png",
+			"type": "image",
+			"url": "assets/h2_btn13.png"
+		},
+		{
+			"name": "h2_btn14_png",
+			"type": "image",
+			"url": "assets/h2_btn14.png"
+		},
+		{
+			"name": "h2_btn15_png",
+			"type": "image",
+			"url": "assets/h2_btn15.png"
+		},
+		{
+			"name": "hint_png",
+			"type": "image",
+			"url": "assets/hint.png"
+		},
+		{
+			"name": "h2_title_png",
+			"type": "image",
+			"url": "assets/h2_title.png"
+		},
+		{
+			"name": "p1_bg_icon1_png",
+			"type": "image",
+			"url": "assets/p1_bg_icon1.png"
+		},
+		{
+			"name": "p1_bg_icon3_png",
+			"type": "image",
+			"url": "assets/p1_bg_icon3.png"
+		},
+		{
+			"name": "p1_map1_png",
+			"type": "image",
+			"url": "assets/p1_map1.png"
+		},
+		{
+			"name": "p1_map2_png",
+			"type": "image",
+			"url": "assets/p1_map2.png"
+		},
+		{
+			"name": "p1_map3_png",
+			"type": "image",
+			"url": "assets/p1_map3.png"
+		},
+		{
+			"name": "p1_map4_png",
+			"type": "image",
+			"url": "assets/p1_map4.png"
+		},
+		{
+			"name": "p1_map5_png",
+			"type": "image",
+			"url": "assets/p1_map5.png"
+		},
+		{
+			"name": "p1_map6_png",
+			"type": "image",
+			"url": "assets/p1_map6.png"
+		},
+		{
+			"name": "p1_mask_png",
+			"type": "image",
+			"url": "assets/p1_mask.png"
+		},
+		{
+			"name": "p1_text_png",
+			"type": "image",
+			"url": "assets/p1_text.png"
+		},
+		{
+			"name": "p1_title1_png",
+			"type": "image",
+			"url": "assets/p1_title1.png"
+		},
+		{
+			"name": "p1_title2_png",
+			"type": "image",
+			"url": "assets/p1_title2.png"
+		},
+		{
+			"name": "p1_bg_icon2_1_png",
+			"type": "image",
+			"url": "assets/p1_bg_icon2_1.png"
+		},
+		{
+			"name": "p1_bg_icon2_2_png",
+			"type": "image",
+			"url": "assets/p1_bg_icon2_2.png"
+		},
+		{
+			"name": "p1_hint_png",
+			"type": "image",
+			"url": "assets/p1_hint.png"
+		},
+		{
+			"name": "p1_map_0_jpg",
+			"type": "image",
+			"url": "assets/p1_map_0.jpg"
+		},
+		{
+			"name": "p1_map_1_jpg",
+			"type": "image",
+			"url": "assets/p1_map_1.jpg"
+		},
+		{
+			"name": "p1_map_2_jpg",
+			"type": "image",
+			"url": "assets/p1_map_2.jpg"
+		},
+		{
+			"name": "p1_map_3_jpg",
+			"type": "image",
+			"url": "assets/p1_map_3.jpg"
+		},
+		{
+			"name": "p1_map_4_jpg",
+			"type": "image",
+			"url": "assets/p1_map_4.jpg"
+		},
+		{
+			"name": "p1_map_5_jpg",
+			"type": "image",
+			"url": "assets/p1_map_5.jpg"
+		},
+		{
+			"name": "p2_title2_png",
+			"type": "image",
+			"url": "assets/p2_title2.png"
+		},
+		{
+			"name": "p2_bg_icon_png",
+			"type": "image",
+			"url": "assets/p2_bg_icon.png"
+		},
+		{
+			"name": "p2_hint_png",
+			"type": "image",
+			"url": "assets/p2_hint.png"
+		},
+		{
+			"name": "p2_icon_png",
+			"type": "image",
+			"url": "assets/p2_icon.png"
+		},
+		{
+			"name": "p2_icon1_png",
+			"type": "image",
+			"url": "assets/p2_icon1.png"
+		},
+		{
+			"name": "p2_icon2_png",
+			"type": "image",
+			"url": "assets/p2_icon2.png"
+		},
+		{
+			"name": "p2_t1_png",
+			"type": "image",
+			"url": "assets/p2_t1.png"
+		},
+		{
+			"name": "p2_t2_png",
+			"type": "image",
+			"url": "assets/p2_t2.png"
+		},
+		{
+			"name": "p2_text_png",
+			"type": "image",
+			"url": "assets/p2_text.png"
+		},
+		{
+			"name": "p2_title1_png",
+			"type": "image",
+			"url": "assets/p2_title1.png"
+		},
+		{
+			"name": "p2_map1_png",
+			"type": "image",
+			"url": "assets/p2_map1.png"
+		},
+		{
+			"name": "p2_map2_png",
+			"type": "image",
+			"url": "assets/p2_map2.png"
+		},
+		{
+			"name": "p3_bg_icon_png",
+			"type": "image",
+			"url": "assets/p3_bg_icon.png"
+		},
+		{
+			"name": "p3_icon_png",
+			"type": "image",
+			"url": "assets/p3_icon.png"
+		},
+		{
+			"name": "p3_text1_1_png",
+			"type": "image",
+			"url": "assets/p3_text1_1.png"
+		},
+		{
+			"name": "p3_text1_2_png",
+			"type": "image",
+			"url": "assets/p3_text1_2.png"
+		},
+		{
+			"name": "p3_text2_1_png",
+			"type": "image",
+			"url": "assets/p3_text2_1.png"
+		},
+		{
+			"name": "p3_text2_2_png",
+			"type": "image",
+			"url": "assets/p3_text2_2.png"
+		},
+		{
+			"name": "p3_title1_png",
+			"type": "image",
+			"url": "assets/p3_title1.png"
+		},
+		{
+			"name": "p3_title2_png",
+			"type": "image",
+			"url": "assets/p3_title2.png"
+		},
+		{
+			"name": "p3_mask_png",
+			"type": "image",
+			"url": "assets/p3_mask.png"
+		},
+		{
+			"name": "p4_t2_png",
+			"type": "image",
+			"url": "assets/p4_t2.png"
+		},
+		{
+			"name": "p4_text1_1_png",
+			"type": "image",
+			"url": "assets/p4_text1_1.png"
+		},
+		{
+			"name": "p4_text1_2_png",
+			"type": "image",
+			"url": "assets/p4_text1_2.png"
+		},
+		{
+			"name": "p4_text1_3_png",
+			"type": "image",
+			"url": "assets/p4_text1_3.png"
+		},
+		{
+			"name": "p4_text1_4_png",
+			"type": "image",
+			"url": "assets/p4_text1_4.png"
+		},
+		{
+			"name": "p4_text1_5_png",
+			"type": "image",
+			"url": "assets/p4_text1_5.png"
+		},
+		{
+			"name": "p4_text2_1_png",
+			"type": "image",
+			"url": "assets/p4_text2_1.png"
+		},
+		{
+			"name": "p4_text2_2_png",
+			"type": "image",
+			"url": "assets/p4_text2_2.png"
+		},
+		{
+			"name": "p4_text2_3_png",
+			"type": "image",
+			"url": "assets/p4_text2_3.png"
+		},
+		{
+			"name": "p4_text2_4_png",
+			"type": "image",
+			"url": "assets/p4_text2_4.png"
+		},
+		{
+			"name": "p4_text2_5_png",
+			"type": "image",
+			"url": "assets/p4_text2_5.png"
+		},
+		{
+			"name": "p4_text2_6_png",
+			"type": "image",
+			"url": "assets/p4_text2_6.png"
+		},
+		{
+			"name": "p4_text2_7_png",
+			"type": "image",
+			"url": "assets/p4_text2_7.png"
+		},
+		{
+			"name": "p4_title1_png",
+			"type": "image",
+			"url": "assets/p4_title1.png"
+		},
+		{
+			"name": "p4_title2_png",
+			"type": "image",
+			"url": "assets/p4_title2.png"
+		},
+		{
+			"name": "p4_bg_icon1_png",
+			"type": "image",
+			"url": "assets/p4_bg_icon1.png"
+		},
+		{
+			"name": "p4_bg_icon2_png",
+			"type": "image",
+			"url": "assets/p4_bg_icon2.png"
+		},
+		{
+			"name": "p4_t1_png",
+			"type": "image",
+			"url": "assets/p4_t1.png"
+		},
+		{
+			"name": "p5_title1_png",
+			"type": "image",
+			"url": "assets/p5_title1.png"
+		},
+		{
+			"name": "p5_title2_png",
+			"type": "image",
+			"url": "assets/p5_title2.png"
+		},
+		{
+			"name": "p5_bg_icon1_png",
+			"type": "image",
+			"url": "assets/p5_bg_icon1.png"
+		},
+		{
+			"name": "p5_bg_icon2_png",
+			"type": "image",
+			"url": "assets/p5_bg_icon2.png"
+		},
+		{
+			"name": "p5_icon1_png",
+			"type": "image",
+			"url": "assets/p5_icon1.png"
+		},
+		{
+			"name": "p5_icon2_png",
+			"type": "image",
+			"url": "assets/p5_icon2.png"
+		},
+		{
+			"name": "p5_map_png",
+			"type": "image",
+			"url": "assets/p5_map.png"
+		},
+		{
+			"name": "p5_text_png",
+			"type": "image",
+			"url": "assets/p5_text.png"
+		},
+		{
+			"name": "p6_bg_icon_png",
+			"type": "image",
+			"url": "assets/p6_bg_icon.png"
+		},
+		{
+			"name": "p6_map1_png",
+			"type": "image",
+			"url": "assets/p6_map1.png"
+		},
+		{
+			"name": "p6_map2_png",
+			"type": "image",
+			"url": "assets/p6_map2.png"
+		},
+		{
+			"name": "p6_text_png",
+			"type": "image",
+			"url": "assets/p6_text.png"
+		},
+		{
+			"name": "p6_title1_png",
+			"type": "image",
+			"url": "assets/p6_title1.png"
+		},
+		{
+			"name": "p6_title2_png",
+			"type": "image",
+			"url": "assets/p6_title2.png"
+		},
+		{
+			"name": "p6_title3_png",
+			"type": "image",
+			"url": "assets/p6_title3.png"
+		},
+		{
+			"name": "p7_icon2_png",
+			"type": "image",
+			"url": "assets/p7_icon2.png"
+		},
+		{
+			"name": "p7_map_png",
+			"type": "image",
+			"url": "assets/p7_map.png"
+		},
+		{
+			"name": "p7_text_png",
+			"type": "image",
+			"url": "assets/p7_text.png"
+		},
+		{
+			"name": "p7_title1_png",
+			"type": "image",
+			"url": "assets/p7_title1.png"
+		},
+		{
+			"name": "p7_title2_png",
+			"type": "image",
+			"url": "assets/p7_title2.png"
+		},
+		{
+			"name": "p7_icon1_png",
+			"type": "image",
+			"url": "assets/p7_icon1.png"
+		},
+		{
+			"name": "p8_bg_icon_png",
+			"type": "image",
+			"url": "assets/p8_bg_icon.png"
+		},
+		{
+			"name": "p8_map1_png",
+			"type": "image",
+			"url": "assets/p8_map1.png"
+		},
+		{
+			"name": "p8_map2_png",
+			"type": "image",
+			"url": "assets/p8_map2.png"
+		},
+		{
+			"name": "p8_t1_1_png",
+			"type": "image",
+			"url": "assets/p8_t1_1.png"
+		},
+		{
+			"name": "p8_t1_2_png",
+			"type": "image",
+			"url": "assets/p8_t1_2.png"
+		},
+		{
+			"name": "p8_t2_1_png",
+			"type": "image",
+			"url": "assets/p8_t2_1.png"
+		},
+		{
+			"name": "p8_t2_2_png",
+			"type": "image",
+			"url": "assets/p8_t2_2.png"
+		},
+		{
+			"name": "p8_title1_png",
+			"type": "image",
+			"url": "assets/p8_title1.png"
+		},
+		{
+			"name": "p8_title2_png",
+			"type": "image",
+			"url": "assets/p8_title2.png"
+		},
+		{
+			"name": "p8_title3_png",
+			"type": "image",
+			"url": "assets/p8_title3.png"
+		},
+		{
+			"name": "p9_title2_png",
+			"type": "image",
+			"url": "assets/p9_title2.png"
+		},
+		{
+			"name": "p9_bg_icon_png",
+			"type": "image",
+			"url": "assets/p9_bg_icon.png"
+		},
+		{
+			"name": "p9_map1_png",
+			"type": "image",
+			"url": "assets/p9_map1.png"
+		},
+		{
+			"name": "p9_map2_png",
+			"type": "image",
+			"url": "assets/p9_map2.png"
+		},
+		{
+			"name": "p9_text1_png",
+			"type": "image",
+			"url": "assets/p9_text1.png"
+		},
+		{
+			"name": "p9_text2_png",
+			"type": "image",
+			"url": "assets/p9_text2.png"
+		},
+		{
+			"name": "p9_text3_png",
+			"type": "image",
+			"url": "assets/p9_text3.png"
+		},
+		{
+			"name": "p9_title1_png",
+			"type": "image",
+			"url": "assets/p9_title1.png"
+		},
+		{
+			"name": "p10_title1_png",
+			"type": "image",
+			"url": "assets/p10_title1.png"
+		},
+		{
+			"name": "p10_title2_png",
+			"type": "image",
+			"url": "assets/p10_title2.png"
+		},
+		{
+			"name": "p10_bg_icon_png",
+			"type": "image",
+			"url": "assets/p10_bg_icon.png"
+		},
+		{
+			"name": "p10_map_png",
+			"type": "image",
+			"url": "assets/p10_map.png"
+		},
+		{
+			"name": "p10_text1_png",
+			"type": "image",
+			"url": "assets/p10_text1.png"
+		},
+		{
+			"name": "p10_text2_png",
+			"type": "image",
+			"url": "assets/p10_text2.png"
+		},
+		{
+			"name": "p10_text3_png",
+			"type": "image",
+			"url": "assets/p10_text3.png"
+		},
+		{
+			"name": "p11_title1_png",
+			"type": "image",
+			"url": "assets/p11_title1.png"
+		},
+		{
+			"name": "p11_title2_png",
+			"type": "image",
+			"url": "assets/p11_title2.png"
+		},
+		{
+			"name": "p11_bg_icon_png",
+			"type": "image",
+			"url": "assets/p11_bg_icon.png"
+		},
+		{
+			"name": "p11_map_png",
+			"type": "image",
+			"url": "assets/p11_map.png"
+		},
+		{
+			"name": "p11_text1_png",
+			"type": "image",
+			"url": "assets/p11_text1.png"
+		},
+		{
+			"name": "p11_text2_png",
+			"type": "image",
+			"url": "assets/p11_text2.png"
+		},
+		{
+			"name": "p11_text3_png",
+			"type": "image",
+			"url": "assets/p11_text3.png"
+		},
+		{
+			"name": "p12_title2_png",
+			"type": "image",
+			"url": "assets/p12_title2.png"
+		},
+		{
+			"name": "p12_bg_icon_png",
+			"type": "image",
+			"url": "assets/p12_bg_icon.png"
+		},
+		{
+			"name": "p12_map1_png",
+			"type": "image",
+			"url": "assets/p12_map1.png"
+		},
+		{
+			"name": "p12_map2_png",
+			"type": "image",
+			"url": "assets/p12_map2.png"
+		},
+		{
+			"name": "p12_map3_png",
+			"type": "image",
+			"url": "assets/p12_map3.png"
+		},
+		{
+			"name": "p12_text1_png",
+			"type": "image",
+			"url": "assets/p12_text1.png"
+		},
+		{
+			"name": "p12_text2_png",
+			"type": "image",
+			"url": "assets/p12_text2.png"
+		},
+		{
+			"name": "p12_text3_png",
+			"type": "image",
+			"url": "assets/p12_text3.png"
+		},
+		{
+			"name": "p12_title1_png",
+			"type": "image",
+			"url": "assets/p12_title1.png"
+		},
+		{
+			"name": "p13_title1_png",
+			"type": "image",
+			"url": "assets/p13_title1.png"
+		},
+		{
+			"name": "p13_title2_png",
+			"type": "image",
+			"url": "assets/p13_title2.png"
+		},
+		{
+			"name": "p13_bg_icon_png",
+			"type": "image",
+			"url": "assets/p13_bg_icon.png"
+		},
+		{
+			"name": "p13_map1_png",
+			"type": "image",
+			"url": "assets/p13_map1.png"
+		},
+		{
+			"name": "p13_map2_png",
+			"type": "image",
+			"url": "assets/p13_map2.png"
+		},
+		{
+			"name": "p13_text1_png",
+			"type": "image",
+			"url": "assets/p13_text1.png"
+		},
+		{
+			"name": "p13_text2_png",
+			"type": "image",
+			"url": "assets/p13_text2.png"
+		},
+		{
+			"name": "p13_text3_png",
+			"type": "image",
+			"url": "assets/p13_text3.png"
+		},
+		{
+			"name": "p14_bg_icon_png",
+			"type": "image",
+			"url": "assets/p14_bg_icon.png"
+		},
+		{
+			"name": "p14_map_png",
+			"type": "image",
+			"url": "assets/p14_map.png"
+		},
+		{
+			"name": "p14_text1_png",
+			"type": "image",
+			"url": "assets/p14_text1.png"
+		},
+		{
+			"name": "p14_text2_png",
+			"type": "image",
+			"url": "assets/p14_text2.png"
+		},
+		{
+			"name": "p14_text3_png",
+			"type": "image",
+			"url": "assets/p14_text3.png"
+		},
+		{
+			"name": "p14_title1_png",
+			"type": "image",
+			"url": "assets/p14_title1.png"
+		},
+		{
+			"name": "p14_title2_png",
+			"type": "image",
+			"url": "assets/p14_title2.png"
+		},
+		{
+			"name": "p15_bg_icon_png",
+			"type": "image",
+			"url": "assets/p15_bg_icon.png"
+		},
+		{
+			"name": "p15_map1_png",
+			"type": "image",
+			"url": "assets/p15_map1.png"
+		},
+		{
+			"name": "p15_map2_png",
+			"type": "image",
+			"url": "assets/p15_map2.png"
+		},
+		{
+			"name": "p15_text_png",
+			"type": "image",
+			"url": "assets/p15_text.png"
+		},
+		{
+			"name": "p15_title1_png",
+			"type": "image",
+			"url": "assets/p15_title1.png"
+		},
+		{
+			"name": "p15_title2_png",
+			"type": "image",
+			"url": "assets/p15_title2.png"
+		},
+		{
+			"name": "p16_title2_png",
+			"type": "image",
+			"url": "assets/p16_title2.png"
+		},
+		{
+			"name": "p16_bg_icon_png",
+			"type": "image",
+			"url": "assets/p16_bg_icon.png"
+		},
+		{
+			"name": "p16_map_png",
+			"type": "image",
+			"url": "assets/p16_map.png"
+		},
+		{
+			"name": "p16_text1_png",
+			"type": "image",
+			"url": "assets/p16_text1.png"
+		},
+		{
+			"name": "p16_text2_png",
+			"type": "image",
+			"url": "assets/p16_text2.png"
+		},
+		{
+			"name": "p16_title1_png",
+			"type": "image",
+			"url": "assets/p16_title1.png"
+		},
+		{
+			"name": "p17_title1_png",
+			"type": "image",
+			"url": "assets/p17_title1.png"
+		},
+		{
+			"name": "p17_title2_png",
+			"type": "image",
+			"url": "assets/p17_title2.png"
+		},
+		{
+			"name": "p17_bg_icon_png",
+			"type": "image",
+			"url": "assets/p17_bg_icon.png"
+		},
+		{
+			"name": "p17_bg_icon2_png",
+			"type": "image",
+			"url": "assets/p17_bg_icon2.png"
+		},
+		{
+			"name": "p17_map_png",
+			"type": "image",
+			"url": "assets/p17_map.png"
+		},
+		{
+			"name": "p17_text1_png",
+			"type": "image",
+			"url": "assets/p17_text1.png"
+		},
+		{
+			"name": "p17_text2_png",
+			"type": "image",
+			"url": "assets/p17_text2.png"
+		},
+		{
+			"name": "p18_bg_icon_png",
+			"type": "image",
+			"url": "assets/p18_bg_icon.png"
+		},
+		{
+			"name": "p18_bg_icon2_png",
+			"type": "image",
+			"url": "assets/p18_bg_icon2.png"
+		},
+		{
+			"name": "p18_map_png",
+			"type": "image",
+			"url": "assets/p18_map.png"
+		},
+		{
+			"name": "p18_map_frame_png",
+			"type": "image",
+			"url": "assets/p18_map_frame.png"
+		},
+		{
+			"name": "p18_text1_png",
+			"type": "image",
+			"url": "assets/p18_text1.png"
+		},
+		{
+			"name": "p18_text2_png",
+			"type": "image",
+			"url": "assets/p18_text2.png"
+		},
+		{
+			"name": "p18_title_png",
+			"type": "image",
+			"url": "assets/p18_title.png"
+		},
+		{
+			"name": "bg2_jpg",
+			"type": "image",
+			"url": "assets/bg2.jpg"
+		},
+		{
+			"name": "p19_bg_icon_png",
+			"type": "image",
+			"url": "assets/p19_bg_icon.png"
+		},
+		{
+			"name": "p19_map_png",
+			"type": "image",
+			"url": "assets/p19_map.png"
+		},
+		{
+			"name": "p19_map_frame_png",
+			"type": "image",
+			"url": "assets/p19_map_frame.png"
+		},
+		{
+			"name": "p19_text1_png",
+			"type": "image",
+			"url": "assets/p19_text1.png"
+		},
+		{
+			"name": "p19_text2_png",
+			"type": "image",
+			"url": "assets/p19_text2.png"
+		},
+		{
+			"name": "p19_title_png",
+			"type": "image",
+			"url": "assets/p19_title.png"
+		},
+		{
+			"name": "p20_map_png",
+			"type": "image",
+			"url": "assets/p20_map.png"
+		},
+		{
+			"name": "p20_text1_png",
+			"type": "image",
+			"url": "assets/p20_text1.png"
+		},
+		{
+			"name": "p20_text2_png",
+			"type": "image",
+			"url": "assets/p20_text2.png"
+		},
+		{
+			"name": "p20_title_png",
+			"type": "image",
+			"url": "assets/p20_title.png"
+		},
+		{
+			"name": "bg3_jpg",
+			"type": "image",
+			"url": "assets/bg3.jpg"
+		},
+		{
+			"name": "p20_map_frame_png",
+			"type": "image",
+			"url": "assets/p20_map_frame.png"
+		},
+		{
+			"name": "p21_bg_icon_png",
+			"type": "image",
+			"url": "assets/p21_bg_icon.png"
+		},
+		{
+			"name": "p21_bg_icon2_png",
+			"type": "image",
+			"url": "assets/p21_bg_icon2.png"
+		},
+		{
+			"name": "p21_map_png",
+			"type": "image",
+			"url": "assets/p21_map.png"
+		},
+		{
+			"name": "p21_map_frame_png",
+			"type": "image",
+			"url": "assets/p21_map_frame.png"
+		},
+		{
+			"name": "p21_text1_png",
+			"type": "image",
+			"url": "assets/p21_text1.png"
+		},
+		{
+			"name": "p21_text2_png",
+			"type": "image",
+			"url": "assets/p21_text2.png"
+		},
+		{
+			"name": "p21_title_png",
+			"type": "image",
+			"url": "assets/p21_title.png"
+		},
+		{
+			"name": "p22_map_frame_png",
+			"type": "image",
+			"url": "assets/p22_map_frame.png"
+		},
+		{
+			"name": "p22_text1_png",
+			"type": "image",
+			"url": "assets/p22_text1.png"
+		},
+		{
+			"name": "p22_text2_png",
+			"type": "image",
+			"url": "assets/p22_text2.png"
+		},
+		{
+			"name": "p22_title_png",
+			"type": "image",
+			"url": "assets/p22_title.png"
+		},
+		{
+			"name": "p22_bg_icon_png",
+			"type": "image",
+			"url": "assets/p22_bg_icon.png"
+		},
+		{
+			"name": "p22_bg_icon2_png",
+			"type": "image",
+			"url": "assets/p22_bg_icon2.png"
+		},
+		{
+			"name": "p22_map_png",
+			"type": "image",
+			"url": "assets/p22_map.png"
+		},
+		{
+			"name": "p23text2_png",
+			"type": "image",
+			"url": "assets/p23text2.png"
+		},
+		{
+			"name": "p23_icon_png",
+			"type": "image",
+			"url": "assets/p23_icon.png"
+		},
+		{
+			"name": "p23text1_png",
+			"type": "image",
+			"url": "assets/p23text1.png"
+		},
+		{
+			"name": "p23_bg_icon_png",
+			"type": "image",
+			"url": "assets/p23_bg_icon.png"
+		},
+		{
+			"name": "p23_title_png",
+			"type": "image",
+			"url": "assets/p23_title.png"
+		},
+		{
+			"name": "p23_map_png",
+			"type": "image",
+			"url": "assets/p23_map.png"
+		},
+		{
+			"name": "p23_map_frame_png",
+			"type": "image",
+			"url": "assets/p23_map_frame.png"
+		},
+		{
+			"name": "p24_bg_icon_png",
+			"type": "image",
+			"url": "assets/p24_bg_icon.png"
+		},
+		{
+			"name": "p24_map_png",
+			"type": "image",
+			"url": "assets/p24_map.png"
+		},
+		{
+			"name": "p24_text1_png",
+			"type": "image",
+			"url": "assets/p24_text1.png"
+		},
+		{
+			"name": "p24_text2_png",
+			"type": "image",
+			"url": "assets/p24_text2.png"
+		},
+		{
+			"name": "p24_title_png",
+			"type": "image",
+			"url": "assets/p24_title.png"
+		},
+		{
+			"name": "bg4_jpg",
+			"type": "image",
+			"url": "assets/bg4.jpg"
+		},
+		{
+			"name": "p24_map_frame_png",
+			"type": "image",
+			"url": "assets/p24_map_frame.png"
+		},
+		{
+			"name": "p25_icon_png",
+			"type": "image",
+			"url": "assets/p25_icon.png"
+		},
+		{
+			"name": "p25_map_png",
+			"type": "image",
+			"url": "assets/p25_map.png"
+		},
+		{
+			"name": "p25_map_frame_png",
+			"type": "image",
+			"url": "assets/p25_map_frame.png"
+		},
+		{
+			"name": "p25_text1_png",
+			"type": "image",
+			"url": "assets/p25_text1.png"
+		},
+		{
+			"name": "p25_text2_png",
+			"type": "image",
+			"url": "assets/p25_text2.png"
+		},
+		{
+			"name": "p25_title_png",
+			"type": "image",
+			"url": "assets/p25_title.png"
+		},
+		{
+			"name": "p25_bg_icon1_png",
+			"type": "image",
+			"url": "assets/p25_bg_icon1.png"
+		},
+		{
+			"name": "p25_bg_icon2_png",
+			"type": "image",
+			"url": "assets/p25_bg_icon2.png"
+		},
+		{
+			"name": "bg5_jpg",
+			"type": "image",
+			"url": "assets/bg5.jpg"
+		},
+		{
+			"name": "p26_map_png",
+			"type": "image",
+			"url": "assets/p26_map.png"
+		},
+		{
+			"name": "p26_text_png",
+			"type": "image",
+			"url": "assets/p26_text.png"
+		},
+		{
+			"name": "p26_title1_png",
+			"type": "image",
+			"url": "assets/p26_title1.png"
+		},
+		{
+			"name": "p26_title2_png",
+			"type": "image",
+			"url": "assets/p26_title2.png"
+		},
+		{
+			"name": "bg6_jpg",
+			"type": "image",
+			"url": "assets/bg6.jpg"
+		},
+		{
+			"name": "erweima_png",
+			"type": "image",
+			"url": "assets/erweima.png"
+		},
+		{
+			"name": "bg7_jpg",
+			"type": "image",
+			"url": "assets/bg7.jpg"
+		}
+	]
+}
